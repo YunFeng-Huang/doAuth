@@ -1,0 +1,1 @@
+<button bindtap="doAuth">授权地址</button>
